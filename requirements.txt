@@ -5,3 +5,4 @@ matplotlib
 seaborn
 xgboost
 jupyterlab
+Rename requirements.txt.txt to requirements.txt
