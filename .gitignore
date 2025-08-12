@@ -1,0 +1,10 @@
+# Ignore Google Colab & environment files
+.config/
+sample_data/
+.ipynb_checkpoints/
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+# Ignore files 
